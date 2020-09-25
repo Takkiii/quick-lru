@@ -124,4 +124,4 @@ class QuickLRU {
 	}
 }
 
-module.exports = QuickLRU;
+export default QuickLRU;
